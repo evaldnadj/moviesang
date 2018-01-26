@@ -1,6 +1,6 @@
 export class Movie {
 
-    id: number;
+     id: number;
      name: string;
      director: string;
      imageUrl: string;
